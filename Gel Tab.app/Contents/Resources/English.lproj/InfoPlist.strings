@@ -1,0 +1,4 @@
+CFBundleName = "Gel Tab";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "Gel Tab version 1.0 Copyright 2009 Noah Paessel";
+NSHumanReadableCopyright = "Copyright 2009 Noah Paessel.";
