@@ -1,0 +1,12 @@
+h1. Gel Tab, alternative to time capsule
+
+A quick and dirty script to automate the instructions at:
+"vinces blog":http://blogs.ubc.ca/vince/2008/04/24/time-machine-backup-to-any-network-drive/
+
+Optionally use "platypus":http://www.sveinbjorn.org/platypus to create a double clickable application
+
+h2. Todo items
+
+* Choose a destination network drive
+* Copy the file over
+* Some UI to make it easier for mortals to use?
