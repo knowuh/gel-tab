@@ -4,7 +4,7 @@
 # Make a time-machine backup location on a network drive
 # Creates an appropriate disk image, that must to be copied onto the remote drive.
 # Recipe taken from: 
-#   http://www.alexpadron.com/2009/03/12/time-machine-backup-to-a-network-share/
+#   http://blogs.ubc.ca/vince/2008/04/24/time-machine-backup-to-any-network-drive/
 # 
 
 # write system-prefs
